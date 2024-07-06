@@ -313,10 +313,10 @@ ul {
 }
 
 .home .home-info .webdeveloper {
-    letter-spacing: 2px;
-    font-size: 2rem;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
     color: #FFFFFF;
-    line-height: 3.5rem;
+    line-height: 2rem;
     padding-left: 10px;
 }
 
@@ -361,7 +361,7 @@ ul {
 }
 
 .about .about-content .about-text h3 span {
-    font-size: 25px;
+    font-size: 20px;
     color: rgb(88, 87, 87);
 }
 
