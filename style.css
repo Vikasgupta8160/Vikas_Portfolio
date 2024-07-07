@@ -1048,7 +1048,7 @@ p.footer-para span {
 @media (max-width:480px) {
 
     .home .home-img {
-        margin-top: -6%;
+        margin-top: -5%;
     }
 
     .home .home-img img {
@@ -1057,11 +1057,11 @@ p.footer-para span {
     }
 
     .home .home-info {
-        margin-top: 5%;
+        margin-top: 3%;
     }
 
     .home .home-info .name {
-        font-size: 2.5rem;
+        font-size: 2.2rem;
     }
 
     .about .about-content .personal-info {
