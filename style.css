@@ -1189,19 +1189,19 @@ p.footer-para span {
 
 @media (max-width:320px) {
     .home .home-info .hello {
-        font-size: 1.8rem;
-    }
-
-    .home .home-info .name {
         font-size: 1.7rem;
     }
 
+    .home .home-info .name {
+        font-size: 1.5rem;
+    }
+
     .home .home-info .webdeveloper {
-        font-size: 1rem;
+        font-size: 1.1rem;
     }
 
     .home .home-info h3 {
-        line-height: 2rem;
+        line-height: 2.2rem;
     }
 
     .home .home-info {
@@ -1213,12 +1213,12 @@ p.footer-para span {
     }
 
     .home .home-img {
-        margin-top: -8%;
+        margin-top: -10%;
     }
 
     .home .home-img img {
-        width: 220px;
-        height: 220px;
+        width: 222px;
+        height: 222px;
     }
 
     .home .container {
